@@ -1,6 +1,6 @@
 
-CREATE DATABASE livraria_icaro_m2;
-USE livraria_icaro_m2;
+CREATE DATABASE livraria_Arthur_menestrina;
+USE livraria_Arthur_menestrina;
 
 CREATE TABLE livros (
     id INT AUTO_INCREMENT PRIMARY KEY,
